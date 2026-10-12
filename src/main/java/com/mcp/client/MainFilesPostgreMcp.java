@@ -8,7 +8,6 @@ public class MainFilesPostgreMcp{
 
     public static void main(String[] args) {
 
-        SpringApplication.run(MainFilesPostgreMcp.class, args
-        );
+        SpringApplication.run(MainFilesPostgreMcp.class, args);
     }
 }
